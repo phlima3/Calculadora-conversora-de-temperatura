@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\bin\Debug\prjTermometro.exe.config
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\bin\Debug\prjTermometro.exe
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\bin\Debug\prjTermometro.pdb
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\obj\Debug\prjTermometro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\obj\Debug\prjTermometro.Form1.resources
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\obj\Debug\prjTermometro.Properties.Resources.resources
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\obj\Debug\prjTermometro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\obj\Debug\prjTermometro.exe
+C:\Users\Aluno\Desktop\prjTermometro\Termometro\prjTermometro\obj\Debug\prjTermometro.pdb
